@@ -31,16 +31,7 @@
 - Artificial Intelligence
 - Full Stack Development
 
-## Projects
-- [DIET RECALL APPLICATION - AYUSH MINISTRY](https://github.com/puter-nyaani-Soma/prakriti-analysis) - Developing an Ayurvedic diet recall application for the Ministry of AYUSH, March 2023– Ongoing
-- [TASK MANAGER APPLICATION](https://github.com/puter-nyaani-Soma/tasks) - Web Application to keep track of tasks to effectively complete the task developed using MERN Stack (Mongo DB, Express, React JS, Node.js), 2023
-- [NOTICE BOARD APPLICATION](https://github.com/puter-nyaani-Soma/notice) - Web Application to post notices publicly to a community developed using JSON Server, Express, React JS, Node.js, 2023
-- [RAILWAY PLATFORM ASSIGNMENT SYSTEM - Web UI](https://github.com/puter-nyaani-Soma/Platform-Management-System) - Web Application for assigning platforms for trains and booking tickets developed using Mongo DB, Express, Embedded JavaScript, Node.js, 2023
-- [WORKSHOP MANAGEMENT SYSTEM](https://github.com/puter-nyaani-Soma/workshop-management-system) - Web Application for hosting workshops and managing participants and teachers developed using Mongo DB, Express, Embedded JavaScript, Node.js, 2023
-- [TOURISM MANAGEMENT SYSTEM – OOAD](https://github.com/puter-nyaani-Soma/tourism-management-system) - Desktop Application designed for a tourism company to manage bookings and tourists using JAVA and MySQL, 2023
-- [FIRE ALARM – Microprocessors](https://github.com/puter-nyaani-Soma/fire-alarm) - Fire alarm using Arduino UNO and flame sensor, 2022
-- [PAINT SHOP MANAGEMENT SYSTEM - DBMS](https://github.com/puter-nyaani-Soma/paint-shop-management-system) - Desktop Application using JAVA and Oracle DB, 2022
-- [ICE CREAM SHOP MANAGEMENT SYSTEM – JAVA Programming](https://github.com/puter-nyaani-Soma/ice-cream-shop-management-system) - Desktop application using JAVA and PostgreSQL, 2021
+
 
 <!---
 puter-nyaani-Soma/puter-nyaani-Soma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
